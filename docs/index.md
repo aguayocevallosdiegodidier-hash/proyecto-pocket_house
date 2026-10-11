@@ -1,45 +1,59 @@
-# Markdown Playground Demo
+# Pocket House
 
-This preview supports *italic*, **bold**, ***bold+italic***, ~~strikethrough~~, and inline code like `npm run dev`.
+## Oración característica
 
-## Headers
+La necesidad de un *refugio* es indispensable, la **compañia** es obligatoria, y pocket  houes brinda ***refugio+compañia***, lo que es igual a ~~orgía~~ `paz mental`.
 
-### H3 Section
-#### H4 Section
-##### H5 Section
 
-## Lists
 
-- Unordered list item
-- Another item with **strong** text
+### Este proyecto prometerá siempre un lugar a donde ir
+#### Con un buen revicio y hospitalidad 
+##### Y sobre tdo con una gran variedad de habitaciones
 
-1. Ordered step one
-2. Ordered step two
+## Lista de servicios disponibles
 
-## Image
+- Servicio de bebidas
+- Servicio de muebles rentables
+- Servicio de comidas preparadas
+- Servicio de apoyo de eventos
 
-![Sample chart](C:\Users\aguay\Pictures\Memes e imagnes graciosas\JAJAJAJJA KHE PENDEJO JAJAJA.jpg)
+## Lista de habitaciones disponibles
+1. Habitación básica de 4 (A)
+2. Habitación extendida de 6 (B)
+3. Habitación extendida de 8 (C)
+4. Habitación extendida de 12 (D)
+5. Habitación de fiestas (E)
+6. Habitación de reproductor (F)
 
-## Code blocks
+## Imagenes iniciales de la página
+
+![Página web con chat](img/con%20chat.png)
+(Imagen de la página con el chat abierto)
+
+![Página web sin chat](img/sin%20chat.jpg)
+(Imagen de la página con el chat cerrado)
+
+## Código fuente de la página (No supe que hacer con esto)
 
 ```python
 def greet(name: str) -> str:
-    return f"Hello, {name}"
+    return f"Hola guapo, {name}"
 ```
 
 ```javascript
-const users = [{ name: "Alice" }, { name: "Bob" }];
+const users = [{ name: "Diego" }, { name: "Pablo" }];
 console.log(users.map((u) => u.name).join(", "));
 ```
 
 ```bash
-curl -s https://www.devtoolsdaily.com/sitemap.xml | head -n 5
+curl -s https://www.youtube.com/@didierplay4757 | head -n 5
 ```
 
-## Table
+## Tabla de precio
 
-| Feature | Status | Notes |
-| --- | :---: | --- |
-| GFM Tables | Yes | Uses `remark-gfm` |
-| Syntax Highlighting | Yes | Multiple languages |
-| Inline Code | Yes | Styled with monospace |
+| Factura | Sercio | Habitación | *Total* |
+| --- | :---: | :---: | :---: |
+| 1 hora | 3$ | 10$  | `13$` |
+| 8 horas | 24$ | 50$ |  `74$` |
+| Día completo (L/V) | 30$ | 100$ |  `130` |
+| Día completo (S y D) | 50$ | 150$ |  `200` |
