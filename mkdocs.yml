@@ -1,8 +1,11 @@
 site_name: Documentació del Projecte
 
-theme:
-  name: moonstone
-
 nav:
   - Inicio: index.md
   - Autor: autor.md
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search-awesome-pages

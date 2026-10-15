@@ -33,6 +33,8 @@ La necesidad de un *refugio* es indispensable, la **compañia** es obligatoria, 
 ![Página web sin chat](img/sin%20chat.jpg)
 (Imagen de la página con el chat cerrado)
 
+
+
 ## Código fuente de la página (No supe que hacer con esto)
 
 ```python

@@ -1,5 +1,7 @@
 # Autor
+
 ## ¿Quién es el encargado?
+
 Hola, soy Diego Didier Aguayo Cevallos pero, solo diganme Diego. Yo soy el único miembro del grupo y debo de decir que estoy bastante emocionado ver como termina el resultado final del proyecto intermodular.
 
 ![Belleza reencarnada](img/foto.png)
