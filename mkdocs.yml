@@ -8,4 +8,6 @@ theme:
   name: moonstone
 
 plugins:
-  - search-awesome-pages
+  - search
+  - mermaid2
+  - awesome-pages

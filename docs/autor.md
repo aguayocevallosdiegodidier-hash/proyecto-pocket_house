@@ -1,12 +1,13 @@
-# Autor
+# *Autor*
 
-## ¿Quién es el encargado?
+## *¿Quién es el encargado?*
 
 Hola, soy Diego Didier Aguayo Cevallos pero, solo diganme Diego. Yo soy el único miembro del grupo y debo de decir que estoy bastante emocionado ver como termina el resultado final del proyecto intermodular.
 
-![Belleza reencarnada](img/foto.png)
+<img src="img/foto.png" alt="belleza encarnada" width="960" height="">
 
-## Objetivo
+## *Objetivo*
+
 Obiamente busco aprender pero en general y haciendo un conteo completo busco estas cosas:
 - Aprender lo más posible de este proyecto.
 - Tratar de impresionar lo más psible a los demas (principalmente al profesor Pablo) o por lo menos hacerlos sacar alguna sonrisa.

@@ -1,23 +1,19 @@
-# Pocket House
+# *Pocket House*
 
-## Oración característica
+## *Oración característica*
 
-La necesidad de un *refugio* es indispensable, la **compañia** es obligatoria, y pocket  houes brinda ***refugio+compañia***, lo que es igual a ~~orgía~~ `paz mental`.
+La necesidad de un *refugio* es indispensable, la **compañia** es obligatoria, y pocket  houes brinda ***refugio+compañia***, lo que es igual a `paz mental`.
 
+Este proyecto prometerá ser siempre un lugar a donde ir, con un buen revicio, hospitalidad y sobre tdo con una gran variedad de habitaciones
 
-
-### Este proyecto prometerá siempre un lugar a donde ir
-#### Con un buen revicio y hospitalidad 
-##### Y sobre tdo con una gran variedad de habitaciones
-
-## Lista de servicios disponibles
+## *Lista de servicios disponibles*
 
 - Servicio de bebidas
 - Servicio de muebles rentables
 - Servicio de comidas preparadas
 - Servicio de apoyo de eventos
 
-## Lista de habitaciones disponibles
+## *Lista de habitaciones disponibles*
 1. Habitación básica de 4 (A)
 2. Habitación extendida de 6 (B)
 3. Habitación extendida de 8 (C)
@@ -25,33 +21,22 @@ La necesidad de un *refugio* es indispensable, la **compañia** es obligatoria, 
 5. Habitación de fiestas (E)
 6. Habitación de reproductor (F)
 
-## Imagenes iniciales de la página
+## *Imagenes iniciales de la página*
 
-![Página web con chat](img/con%20chat.png)
+<img src="img/con chat.png" alt="Con chat" width="960" height="">
 (Imagen de la página con el chat abierto)
 
-![Página web sin chat](img/sin%20chat.jpg)
+<img src="img/sin chat.jpg" alt="Con chat" width="960" height="">
 (Imagen de la página con el chat cerrado)
 
+## *Contactos*
 
-
-## Código fuente de la página (No supe que hacer con esto)
-
-```python
-def greet(name: str) -> str:
-    return f"Hola guapo, {name}"
+```
+Número de teléfono: 658673777
+Correo: pockethouse@gmail.com
 ```
 
-```javascript
-const users = [{ name: "Diego" }, { name: "Pablo" }];
-console.log(users.map((u) => u.name).join(", "));
-```
-
-```bash
-curl -s https://www.youtube.com/@didierplay4757 | head -n 5
-```
-
-## Tabla de precio
+## *Tabla de precio*
 
 | Factura | Sercio | Habitación | *Total* |
 | --- | :---: | :---: | :---: |
