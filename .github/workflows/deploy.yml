@@ -34,7 +34,7 @@ jobs:
 
       - run: pip install mkdocs-awesome-pages-plugin
 
-      - run: pip install mkdocs-glightbox
+      - run: pip install mkdocs-glightbox-plugin
 
       - run: pip install mkdocs-macros-plugin
 

@@ -10,19 +10,12 @@ theme:
 
 plugins:
   - search
-  - minify:
-      minify_html: true
-  - git-revision-date-localized:
-      enable_creation_date: true
-  - git-author-date-localized:
-      enable_creation_date: true
+  - minify
+  - git-revision-date-localized
+  - git-authors
   - awesome-pages
   - glightbox
   - macros
-  - blogging:
-      blog_dir: blog
-      blog_index_template: blog_index.html
-      blog_post_template: blog_post.html
-  - pdf-export:
-      verbose: true
+  - blogging
+  - pdf-export
   - mermaid2
