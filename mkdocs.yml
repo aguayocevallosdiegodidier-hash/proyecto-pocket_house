@@ -1,5 +1,5 @@
 site_name: Documentació del Projecte
-
+site_url: https://aguayocevallosdiegodidier-hash.github.io/proyecto-pocket_house/
 nav:
   - Inicio: index.md
   - Autor: autor.md
