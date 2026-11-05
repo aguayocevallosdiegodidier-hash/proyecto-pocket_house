@@ -12,9 +12,6 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - redirects:
-      redirect_maps:
-        'index.html': 'inicio.html'
   - git-revision-date-localized:
       enable_creation_date: true
   - git-author-date-localized:
