@@ -10,15 +10,7 @@ theme:
 
 plugins:
   - search
-  - material:
-      palette:
-        primary: 'indigo'
-        accent: 'indigo'
-      features:
-        - navigation.expand
-        - navigation.sections
-        - navigation.instant
-        - toc.integrate
+  - material
   - minify:
       minify_html: true
   - redirects:
