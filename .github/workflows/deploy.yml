@@ -46,7 +46,7 @@ jobs:
 
       - run: pip install mkdocs-mermaid2-plugin  
 
-      - run: mkdocs build
+      - run: pip install mkdocs build
 
       - uses: actions/configure-pages@v5
 
