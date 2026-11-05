@@ -10,13 +10,24 @@ theme:
 
 plugins:
   - search
-  - mkdocs-material
+  - material:
+      palette:
+        primary: 'indigo'
+        accent: 'indigo'
+      features:
+        - navigation.expand
+        - navigation.sections
+        - navigation.instant
+        - toc.integrate
   - minify:
       minify_html: true
-  - mkdocs-redirects
+  - redirects:
+      redirect_maps:
+        'index.html': 'inicio.html'
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-authors
+  - git-author-date-localized:
+      enable_creation_date: true
   - awesome-pages
   - glightbox
   - macros
