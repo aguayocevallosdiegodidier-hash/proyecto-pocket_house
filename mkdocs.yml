@@ -3,11 +3,27 @@ site_name: Documentació del Projecte
 nav:
   - Inicio: index.md
   - Autor: autor.md
+  - Archivos YML explicados: ficheros-yml.md
 
 theme:
   name: moonstone
 
 plugins:
   - search
-  - mermaid2
+  - mkdocs-material
+  - minify:
+      minify_html: true
+  - mkdocs-redirects
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-authors
   - awesome-pages
+  - glightbox
+  - macros
+  - blogging:
+      blog_dir: blog
+      blog_index_template: blog_index.html
+      blog_post_template: blog_post.html
+  - pdf-export:
+      verbose: true
+  - mermaid2
