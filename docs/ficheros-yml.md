@@ -28,19 +28,9 @@ La forma en la que se ve la página se le dice tema, donde este es seleccionado 
 
 Para finalizar, tenemos las plugins, que son complementos de fragmentos de software independientes que agregan funciones adicionales a nuestra página, es decir extensiones.
 
-La variedad de estos es grande, y de ejemplo pondré los que elegí para esta página:
-
-#### Search
-
-Este no la elegí yo, vino con ya implementado junto con los ficheros que pasó el Pablo. Permite tene una opción para buscar documentos, aunque sola no muestra ninguna pista o descripción.
+La variedad de estos es grande, pero por ejemplo tenemos el plugin de Search, que permite tener una opción para buscar documentos, títulos, secciones, etc:
 
 <img src="img/Search.png" alt="Plugin Search" width="960" height="">
-
-#### Pdf-export
-
-Uno que sí agregé por mi cuenta es ek pdf-export, que sería para poder mostrar un pdf exportado en la página, como este que tenemos de ejemplo.
-
-[Descargar fichero](./pdfs/Prueba1.pdf)   
 
 ## *Deploy.yml*
 
