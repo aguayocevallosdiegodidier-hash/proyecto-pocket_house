@@ -3,7 +3,7 @@ site_url: https://aguayocevallosdiegodidier-hash.github.io/proyecto-pocket_house
 nav:
   - Inicio: index.md
   - Autor: autor.md
-  - Archivos YML explicados: ficheros-yml.md
+  - Ficheros YML explicados: ficheros-yml.md
 
 theme:
   name: moonstone

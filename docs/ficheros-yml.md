@@ -4,7 +4,7 @@ Para darle forma a nuestra página web en GitHub entran en juego dos ficheros cl
 
 ¿Pero qué son estos ficheros realmente y que funciones cumplen? Bueno eso es lo que explicaré aquí.
 
-## *mkdocs.yml*
+## *Mkdocs.yml*
 
 Primero tenemos al fichero Mkdocs, que se encarga de prácticamente darle la estructura, diseño, contenido y archivos a nuestra página, o sea que es el esqueleto que sostenie la base y se conecta con el resto de cosas y que habrán en este.
 
@@ -34,16 +34,18 @@ La variedad de estos es grande, y de ejemplo pondré los que elegí para esta p�
 
 Este no la elegí yo, vino con ya implementado junto con los ficheros que pasó el Pablo. Permite tene una opción para buscar documentos, aunque sola no muestra ninguna pista o descripción.
 
-<img src="img/Search.png" alt="" width="960" height="">
+<img src="img/Search.png" alt="Plugin Search" width="960" height="">
 
-#### A
+#### Pdf-export
 
-Pito.
+Uno que sí agregé por mi cuenta es ek pdf-export, que sería para poder mostrar un pdf exportado en la página, como este que tenemos de ejemplo.
 
-<img src="img/.png" alt="" width="960" height="">
+[Descargar fichero](./pdfs/Prueba1.pdf)   
 
-## *deploy.yml*
+## *Deploy.yml*
 
-Por otro lado, tenemos el fichero Deploy, que como dice el mismo nombre, despliega una automatización de la construcción y publicación de nuestra página como GitHub Pages por medios de comandos preinstalados. Es decir, es el encargado de mostrar el contenido de la página en GitHub
+Por otro lado, tenemos el fichero Deploy, que como dice el mismo nombre, despliega una automatización de la construcción y publicación de nuestra página como GitHub Pages por medios de comandos preinstalados. Es decir, es el encargado de mostrar el contenido de la página en GitHub.
 
-<img src=" " alt="B" width="960" height="">
+<img src="img/Desploy.png" alt="Comandos de Desploy" width="960" height="">
+
+<img src="img/GitHub.png" alt="GitHub" width="960" height="">
